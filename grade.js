@@ -1,4 +1,5 @@
 const array =[45,64,76,87,87,66,66,97,96,56,45]
+// for loop
 for(let x =0;x<array.length;x++){
     if(array[x] >=80 && array[x] <=100){
         console.log(`you Got A++ and yor number is${array[x]}`)
